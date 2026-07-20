@@ -1,7 +1,0 @@
-﻿CityTier,PreferredLoginDevice,组合,用户数,流失率,样本提示
-1,Computer,1级城市 - Computer,1070,0.16822429906542055,可观察
-1,Mobile Phone,1级城市 - Mobile Phone,2596,0.13559322033898305,可观察
-2,Computer,2级城市 - Computer,64,0.25,可观察
-2,Mobile Phone,2级城市 - Mobile Phone,178,0.1797752808988764,可观察
-3,Computer,3级城市 - Computer,500,0.256,可观察
-3,Mobile Phone,3级城市 - Mobile Phone,1222,0.19639934533551553,可观察

@@ -1,5 +1,0 @@
-﻿规则,检查字段,不合规记录数
-Tenure >= 0,Tenure,0
-WarehouseToHome >= 0,WarehouseToHome,0
-OrderCount > 0,OrderCount,0
-CashbackAmount >= 0,CashbackAmount,0
